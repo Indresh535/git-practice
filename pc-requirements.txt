@@ -19,3 +19,4 @@ CPU - Intel Core i7 12700 12th Gen Generation Desktop PC Processor CPU APU with 
 Memory RAM DDR5 - Crucial RAM 32GB Kit (2x16GB) DDR5 4800MHz CL40 Desktop Memory CT2K16G48C40U5  - Rs: 9,593
 Graphics Card - GIGABYTE Nvidia GeForce ® GTX 1650 D6 pci_e_x16 WINDFORCE OC 4GD Graphics Card with Integrated 4GB GDDR6 Memory (GV-N1656WF2OC-4GD) - Rs: 12,929
 CPU Liquid Cooler - MSI MAG CORELIQUID M240 AIO CPU Liquid Cooler, 240mm Radiator, 2 x 120mm Fans, Split-Flow Water Cooling, LGA 1700 and AM5 Compatibility - Rs: 7,739
+Power Supply - Cooler Master MWE 650 Bronze V2 Power Supply - Non-Modular | 80 Plus Bronze Certified | 120mm HDB Fan | DC-to-DC Circuit Design | 2 EPS Connector | ATX 2.52 Version | 650 Watt - Rs: 5,379
