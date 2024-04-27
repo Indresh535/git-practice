@@ -40,3 +40,24 @@ GIGABYTE CPU |
 6) CPU Cabin - MSI MAG Forge 112R Mid Tower Gaming PC Case | USB 3.2 Gen 1 Type-A | Support Bracket | 1 x 120mm ARGB Fan, | Tempered Glass Panel, Magnetic Dust Filter | Black (ATX, m-ATX, Mini-ITX Compatible) - Rs: 4,851
 
 7) Power Supply - Cooler Master MWE 650 Bronze V2 Power Supply - Non-Modular | 80 Plus Bronze Certified | 120mm HDB Fan | DC-to-DC Circuit Design | 2 EPS Connector | ATX 2.52 Version | 650 Watt - Rs: 5,379
+
+
+
+
+
+
+
+
+
+
+
+PC specs:
+
+CPU: Intel Core i7-14700K
+GPU: Nvidia GeForce RTX 4090 ROG Strix OC EVA-02 Edition
+Motherboard: ROG Maximus Z790 Hero EVA-02 Edition
+RAM: 64GB 6000MHz DDR5 G.Skill Trident Z5 RGB
+SSD: Samsung 980 Pro 1TB NVMe M.2
+CPU cooler: ROG Ryujin III 360 ARGB EVA-02 Edition
+PSU: ROG Thor 1000W Platinum II Eva Edition
+Case: ROG Hyperion EVA-02 Edition
