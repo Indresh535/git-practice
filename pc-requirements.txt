@@ -2,15 +2,15 @@
 Intel
 1) Mother Board - MSI MAG B760M Mortar WiFi Gaming Motherboard (Supports 12th/13th Gen Intel Processors, LGA 1700, DDR5, PCIe 5.0, M.2, 2.5Gbps LAN, USB 3.2 Gen2, Wi-Fi 6E, mATX) - Rs: 21,499
 
-CPU - Intel Core i7 12700 12th Gen Generation Desktop PC Processor CPU APU with 25MB Cache and up to 4.90 GHz Clock Speed 3 Years Warranty with Fan LGA 1700 4K (Graphic Card Not Required) - Rs: 26,699
+2) CPU - Intel Core i7 12700 12th Gen Generation Desktop PC Processor CPU APU with 25MB Cache and up to 4.90 GHz Clock Speed 3 Years Warranty with Fan LGA 1700 4K (Graphic Card Not Required) - Rs: 26,699
 
-Memory RAM DDR5 - Crucial RAM 32GB Kit (2x16GB) DDR5 4800MHz CL40 Desktop Memory CT2K16G48C40U5  - Rs: 9,593
+3) RAM DDR5 - Crucial RAM 32GB Kit (2x16GB) DDR5 4800MHz CL40 Desktop Memory CT2K16G48C40U5  - Rs: 9,593
 
-Graphics Card - MSI GeForce RTX 3050 Ventus 2X 6G OC Graphic Card - NVIDIA GeForce RTX 3050 GPU, 6GB GDDR6 96-bit Memory, 14 Gbps, PCI Express 4 Interface, Upto 1492 MHz, Dual Fan - Rs: 18,999
+4) Graphics Card - MSI GeForce RTX 3050 Ventus 2X 6G OC Graphic Card - NVIDIA GeForce RTX 3050 GPU, 6GB GDDR6 96-bit Memory, 14 Gbps, PCI Express 4 Interface, Upto 1492 MHz, Dual Fan - Rs: 18,999
 
-CPU Liquid Cooler - MSI MAG CORELIQUID M240 AIO CPU Liquid Cooler, 240mm Radiator, 2 x 120mm Fans, Split-Flow Water Cooling, LGA 1700 and AM5 Compatibility - Rs: 7,739
+5) CPU Liquid Cooler - MSI MAG CORELIQUID M240 AIO CPU Liquid Cooler, 240mm Radiator, 2 x 120mm Fans, Split-Flow Water Cooling, LGA 1700 and AM5 Compatibility - Rs: 7,739
 
-Power Supply - Cooler Master MWE 650 Bronze V2 Power Supply - Non-Modular | 80 Plus Bronze Certified | 120mm HDB Fan | DC-to-DC Circuit Design | 2 EPS Connector | ATX 2.52 Version | 650 Watt - Rs: 5,379
+6) Power Supply - Cooler Master MWE 650 Bronze V2 Power Supply - Non-Modular | 80 Plus Bronze Certified | 120mm HDB Fan | DC-to-DC Circuit Design | 2 EPS Connector | ATX 2.52 Version | 650 Watt - Rs: 5,379
 
 
 
@@ -19,9 +19,14 @@ Power Supply - Cooler Master MWE 650 Bronze V2 Power Supply - Non-Modular | 80 P
 
 GIGABYTE  
 
-Mother Board - GIGABYTE Z790 AORUS Elite AX (LGA 1700/ Intel Z790/ ATX/ DDR5/ Quad M.2/ PCIe 5.0/ USB 3.2 Gen2X2 Type-C/Intel WiFi 6E/ 2.5GbE LAN/Q-Flash Plus/PCIe EZ-Latch/Gaming Motherboard)  - Rs: 19,189
-CPU - Intel Core i7 12700 12th Gen Generation Desktop PC Processor CPU APU with 25MB Cache and up to 4.90 GHz Clock Speed 3 Years Warranty with Fan LGA 1700 4K (Graphic Card Not Required) - Rs: 26,699
-Memory RAM DDR5 - Crucial RAM 32GB Kit (2x16GB) DDR5 4800MHz CL40 Desktop Memory CT2K16G48C40U5  - Rs: 9,593
-Graphics Card - GIGABYTE Nvidia GeForce ® GTX 1650 D6 pci_e_x16 WINDFORCE OC 4GD Graphics Card with Integrated 4GB GDDR6 Memory (GV-N1656WF2OC-4GD) - Rs: 12,929
-CPU Liquid Cooler - MSI MAG CORELIQUID M240 AIO CPU Liquid Cooler, 240mm Radiator, 2 x 120mm Fans, Split-Flow Water Cooling, LGA 1700 and AM5 Compatibility - Rs: 7,739
-Power Supply - Cooler Master MWE 650 Bronze V2 Power Supply - Non-Modular | 80 Plus Bronze Certified | 120mm HDB Fan | DC-to-DC Circuit Design | 2 EPS Connector | ATX 2.52 Version | 650 Watt - Rs: 5,379
+1) Mother Board - GIGABYTE Z790 AORUS Elite AX (LGA 1700/ Intel Z790/ ATX/ DDR5/ Quad M.2/ PCIe 5.0/ USB 3.2 Gen2X2 Type-C/Intel WiFi 6E/ 2.5GbE LAN/Q-Flash Plus/PCIe EZ-Latch/Gaming Motherboard)  - Rs: 19,189
+
+2) CPU - Intel Core i7 12700 12th Gen Generation Desktop PC Processor CPU APU with 25MB Cache and up to 4.90 GHz Clock Speed 3 Years Warranty with Fan LGA 1700 4K (Graphic Card Not Required) - Rs: 26,699
+
+3) Memory RAM DDR5 - Crucial RAM 32GB Kit (2x16GB) DDR5 4800MHz CL40 Desktop Memory CT2K16G48C40U5  - Rs: 9,593
+
+4) Graphics Card - GIGABYTE Nvidia GeForce ® GTX 1650 D6 pci_e_x16 WINDFORCE OC 4GD Graphics Card with Integrated 4GB GDDR6 Memory (GV-N1656WF2OC-4GD) - Rs: 12,929
+
+5) CPU Liquid Cooler - MSI MAG CORELIQUID M240 AIO CPU Liquid Cooler, 240mm Radiator, 2 x 120mm Fans, Split-Flow Water Cooling, LGA 1700 and AM5 Compatibility - Rs: 7,739
+
+6) Power Supply - Cooler Master MWE 650 Bronze V2 Power Supply - Non-Modular | 80 Plus Bronze Certified | 120mm HDB Fan | DC-to-DC Circuit Design | 2 EPS Connector | ATX 2.52 Version | 650 Watt - Rs: 5,379
