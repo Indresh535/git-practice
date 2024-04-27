@@ -20,8 +20,6 @@ INTEL CPU |
 
 
 
-
-
 --------------
 GIGABYTE CPU |
 --------------
@@ -61,3 +59,17 @@ SSD: Samsung 980 Pro 1TB NVMe M.2
 CPU cooler: ROG Ryujin III 360 ARGB EVA-02 Edition
 PSU: ROG Thor 1000W Platinum II Eva Edition
 Case: ROG Hyperion EVA-02 Edition
+
+
+
+
+Testing
+
+HeavyLoad  - Stress Test Your PC
+FurMark  -   GPU STRESS TEST
+Cinebench  -  industry-standard benchmarking software
+CrystalDiskMark
+3DMark benchmark
+PCMark 10 — The Complete Benchmark
+
+https://kryptronix.in/product/custom-rig/
