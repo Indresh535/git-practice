@@ -8,7 +8,7 @@ INTEL CPU |
 
 2) CPU Processor - Intel Core i7 12700 12th Gen Generation Desktop PC Processor CPU APU with 25MB Cache and up to 4.90 GHz Clock Speed 3 Years Warranty with Fan LGA 1700 4K (Graphic Card Not Required) - Rs: 26,699
 
-3) Memory (RAM) DDR5 - G.Skill Trident Z5 RGB Series (Intel XMP) 32GB (2 x 16GB) 288-Pin SDRAM DDR5 7200 CL34-45-45-115 1.40V Dual Channel Desktop Memory F5-7200J3445G16GX2-TZ5RK (Matte Black)  - Rs: 17,459
+3) Memory (RAM) DDR5 - Corsair Dominator Platinum RGB DDR5 32GB (2x16GB) DDR5 7200 MHz C34 Intel Optimised Desktop Memory (Onboard Voltage Regulation, Patented DHX Cooling, 12 Ultra-Bright CAPELLIX RGB LEDs) Black  - Rs: 21,218
 
 4) Storage (SSD) - Crucial P3 1TB PCIe 3.0 3D NAND NVMe M.2 SSD, up to 3500MB/s - CT1000P3SSD8 - Rs: 5,540
 
@@ -72,4 +72,5 @@ CrystalDiskMark
 3DMark benchmark
 PCMark 10 — The Complete Benchmark
 
+https://outervision.com/power-supply-calculator
 https://kryptronix.in/product/custom-rig/
