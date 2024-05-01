@@ -4,7 +4,7 @@ INTEL CPU |
 -----------
 
 
-1) Mother Board - MSI MAG B760M Mortar WiFi Gaming Motherboard (Supports 12th/13th Gen Intel Processors, LGA 1700, DDR5, PCIe 5.0, M.2, 2.5Gbps LAN, USB 3.2 Gen2, Wi-Fi 6E, mATX) - Rs: 21,499
+1) MSI PRO Z790-P WiFi Motherboard, ATX - Supports Intel 12th & 13th Gen Core Processors, LGA 1700-55A DrMOS, DDR5 Memory Boost 7000+MHz/OC, PCIe 5.0 & 4.0 x16, 4 x M.2 Gen4, Wi-Fi 6E, 2.5G LAN - Rs: 23,499
 
 2) CPU Processor - Intel Core i7 12700 12th Gen Generation Desktop PC Processor CPU APU with 25MB Cache and up to 4.90 GHz Clock Speed 3 Years Warranty with Fan LGA 1700 4K (Graphic Card Not Required) - Rs: 26,699
 
