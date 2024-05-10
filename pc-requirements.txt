@@ -63,7 +63,7 @@ Case: ROG Hyperion EVA-02 Edition
 
 
 
-Testing
+Testing tools for hardware
 
 HeavyLoad  - Stress Test Your PC
 FurMark  -   GPU STRESS TEST
@@ -76,6 +76,6 @@ https://outervision.com/power-supply-calculator
 https://kryptronix.in/product/custom-rig/
 
 
-supports ddr5 7200 only with the compatibility of both mother board and cpu processor 
+supports ddr5 7200hz only with the compatibility of both mother board and cpu processor 
 
 CarZ$Auth
