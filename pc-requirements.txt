@@ -75,4 +75,7 @@ PCMark 10 — The Complete Benchmark
 https://outervision.com/power-supply-calculator
 https://kryptronix.in/product/custom-rig/
 
+
+supports ddr5 7200 only with the compatibility of both mother board and cpu processor 
+
 CarZ$Auth
