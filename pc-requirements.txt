@@ -78,4 +78,6 @@ https://kryptronix.in/product/custom-rig/
 
 supports ddr5 7200hz only with the compatibility of both mother board and cpu processor 
 
-CarZ$Auth
+CarZ$A
+
+dual pc motherboard
