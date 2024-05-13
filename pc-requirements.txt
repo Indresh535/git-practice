@@ -64,13 +64,14 @@ Case: ROG Hyperion EVA-02 Edition
 
 
 Testing tools for hardware
+----------------------------
 
-HeavyLoad  - Stress Test Your PC
-FurMark  -   GPU STRESS TEST
-Cinebench  -  industry-standard benchmarking software
+-> HeavyLoad  - Stress Test Your PC
+-> FurMark  -   GPU STRESS TEST
+Cinebench  -  industry-standard -> -> benchmarking software
 CrystalDiskMark
-3DMark benchmark
-PCMark 10 — The Complete Benchmark
+-> 3DMark benchmark
+-> PCMark 10 — The Complete Benchmark
 
 https://outervision.com/power-supply-calculator
 https://kryptronix.in/product/custom-rig/
