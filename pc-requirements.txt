@@ -48,9 +48,9 @@ GIGABYTE CPU |
 
 
 
-
+----------
 PC specs:
-
+----------
 CPU: Intel Core i7-14700K
 GPU: Nvidia GeForce RTX 4090 ROG Strix OC EVA-02 Edition
 Motherboard: ROG Maximus Z790 Hero EVA-02 Edition
