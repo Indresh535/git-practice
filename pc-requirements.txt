@@ -68,7 +68,7 @@ Testing tools for hardware
 
 -> HeavyLoad  - Stress Test Your PC
 -> FurMark  -   GPU STRESS TEST
-Cinebench  -  industry-standard -> -> benchmarking software
+-> Cinebench  -  industry-standard benchmarking software
 CrystalDiskMark
 -> 3DMark benchmark
 -> PCMark 10 — The Complete Benchmark
