@@ -81,4 +81,7 @@ supports ddr5 7200hz only with the compatibility of both mother board and cpu pr
 
 CarZ$A
 
-https://zorin.com/os/
+https://zorin.com/o
+ftp
+etl
+tcm
