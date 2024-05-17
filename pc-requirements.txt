@@ -85,3 +85,4 @@ https://zorin.com/o
 ftp
 etl
 tcm
+redhat open shift ai
