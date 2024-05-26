@@ -1,4 +1,4 @@
-seei9 14th generation 
+i9 14th generation 
 -----------
 INTEL CPU |
 -----------
@@ -95,3 +95,4 @@ python
 python machine learning train
 next js tutorials
 next js architecture 
+https://github.com/harshbhatt7585/YogaIntelliJ
