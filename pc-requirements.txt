@@ -1,4 +1,4 @@
-i9 14th generation 
+seei9 14th generation 
 -----------
 INTEL CPU |
 -----------
@@ -93,3 +93,4 @@ webhooks
 websockets
 python
 python machine learning train
+next js tutorial 
