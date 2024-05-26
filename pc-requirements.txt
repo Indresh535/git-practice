@@ -93,4 +93,5 @@ webhooks
 websockets
 python
 python machine learning train
-next js tutorial 
+next js tutorials
+next js architecture 
