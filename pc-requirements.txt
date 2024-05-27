@@ -97,3 +97,7 @@ next js tutorials
 next js architecture 
 https://github.com/harshbhatt7585/YogaIntelliJ
 https://youtu.be/fiDaAc7z_kQ?feature=shared
+
+OpenCvSharp4.runtime.win
+Tesseract
+OpenCvSharp4
