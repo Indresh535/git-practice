@@ -1,6 +1,9 @@
 import cv2
 import pytesseract
 
+# Set the path to Tesseract executable (update this with your actual path)
+pytesseract.pytesseract.tesseract_cmd = r'./models/tesseract-ocr-w64-setup-5.3.4.20240503.exe'
+
 def extract_cabin_numbers(image_path):
     # Load the image
     image = cv2.imread(image_path)
