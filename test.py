@@ -25,7 +25,7 @@ categories = {
 }
 
 def extract_cabin_numbers_and_coords(image_path):
-    # Load the image
+    # Load the image file
     image = cv2.imread(image_path)
     original_image = image.copy()
 
