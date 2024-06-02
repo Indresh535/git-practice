@@ -2,7 +2,7 @@ import cv2
 import pytesseract
 
 # Path to your image file
-image_path = './ccl.png'
+image_path = './Azamara-3711.png'
 
 # Read the image using OpenCV
 image = cv2.imread(image_path)
@@ -60,6 +60,8 @@ while i <= len(four_digit_numbers) - 4:
 
 # Show the image with rectangles and coordinates
 cv2.imshow('Image with Four-Digit Numbers Detected', image)
+output_image_path = './output/Azamara-3711-output.png'
+cv2.imwrite(output_image_path, image)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 
