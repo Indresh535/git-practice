@@ -102,3 +102,4 @@ OpenCvSharp4.runtime.win
 Tesseract
 OpenCvSharp4
 Devops
+DevSecOps
