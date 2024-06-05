@@ -103,3 +103,5 @@ Tesseract
 OpenCvSharp4
 Devops
 DevSecOps
+Google Colaboratory
+Online Jupyter Notebooks
