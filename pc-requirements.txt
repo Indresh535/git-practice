@@ -106,3 +106,4 @@ DevSecOps
 Google Colaboratory
 Online Jupyter Notebooks
 clickhouse
+yugabyte
