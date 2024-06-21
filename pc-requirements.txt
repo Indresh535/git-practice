@@ -107,3 +107,152 @@ Google Colaboratory
 Online Jupyter Notebooks
 clickhouse
 yugabyte
+
+
+
+
+
+hacknarnk 
+________________________________________________________
+routes.ts
+import {ApplicationRequest, RequestMethod} from "../types/request";
+import {IndexController} from "./controller/IndexController";
+import { TradesController } from "./controller/TradesController";
+
+export class RoutesManager {
+    static indexController = new IndexController();
+    static tradesController = new TradesController();
+
+    /**
+     * All application routes.
+     */
+    static getAppRoutes(): ApplicationRequest[] {
+        return [
+            {
+                path: '/',
+                method: RequestMethod.GET,
+                action: RoutesManager.indexController.indexRoute
+            },
+            {
+                path: '/trades',
+                method: RequestMethod.POST,
+                action: RoutesManager.tradesController.createTrade
+            },
+            {
+                path: '/trades',
+                method: RequestMethod.GET,
+                action: RoutesManager.tradesController.getAllTrades
+            },
+            {
+                path: '/trades/:id',
+                method: RequestMethod.GET,
+                action: RoutesManager.tradesController.getTradeById
+            },
+            {
+                path: '/trades/:id',
+                method: RequestMethod.PUT,
+                action: RoutesManager.tradesController.methodNotAllowed
+            },
+            {
+                path: '/trades/:id',
+                method: RequestMethod.PATCH,
+                action: RoutesManager.tradesController.methodNotAllowed
+            },
+            {
+                path: '/trades/:id',
+                method: RequestMethod.DELETE,
+                action: RoutesManager.tradesController.methodNotAllowed
+            }
+        ]
+    }
+}
+
+
+trades.controller.ts
+import { Request, Response } from 'express';
+import { getTradeRepository } from '../entity/Trade';
+
+export class TradesController {
+    async createTrade(req: Request, res: Response) {
+        const { type, user_id, symbol, shares, price, timestamp } = req.body;
+
+        if (!['buy', 'sell'].includes(type) || shares < 1 || shares > 100) {
+            return res.status(400).send('Invalid trade data');
+        }
+
+        const tradeRepository = await getTradeRepository();
+        const trade = tradeRepository.create({ type, user_id, symbol, shares, price, timestamp });
+
+        await tradeRepository.save(trade);
+        res.status(201).json(trade);
+    }
+
+    async getAllTrades(req: Request, res: Response) {
+        const { type, user_id } = req.query;
+        const tradeRepository = await getTradeRepository();
+        let trades = await tradeRepository.find();
+
+        if (type) {
+            trades = trades.filter(trade => trade.type === type);
+        }
+        if (user_id) {
+            trades = trades.filter(trade => trade.user_id === Number(user_id));
+        }
+
+        res.status(200).json(trades);
+    }
+
+    async getTradeById(req: Request, res: Response) {
+      const tradeRepository = await getTradeRepository();
+      const trade = await tradeRepository.findOne({ where: { id: parseInt(req.params.id, 10) } });
+  
+      if (!trade) {
+          return res.status(404).send('ID not found');
+      }
+  
+      res.status(200).json(trade);
+  }
+  
+
+    methodNotAllowed(req: Request, res: Response) {
+        res.status(405).send('Method not allowed');
+    }
+}
+
+
+trades.ts
+import {Entity, PrimaryGeneratedColumn, Column} from "typeorm";
+import {Repository} from "typeorm/repository/Repository";
+import {createDefaultConnection} from "../connection";
+
+@Entity()
+export class Trade {
+
+    @PrimaryGeneratedColumn()
+    id: number;
+
+    @Column({enum: ['buy', 'sell']})
+    type: string;
+
+    @Column()
+    user_id: number;
+
+    @Column()
+    symbol: string;
+
+    @Column()
+    shares: number;
+
+    @Column()
+    price: number;
+
+    @Column()
+    timestamp: number;
+}
+
+export const getTradeRepository = async (): Promise<Repository<Trade>> => {
+    const connection = await createDefaultConnection()
+    return connection.getRepository<Trade>(Trade);
+};
+
+
