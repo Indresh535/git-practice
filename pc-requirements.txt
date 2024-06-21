@@ -255,4 +255,17 @@ export const getTradeRepository = async (): Promise<Repository<Trade>> => {
     return connection.getRepository<Trade>(Trade);
 };
 
+----------------------------------
+anser post https://vm-24bb54ef-9525-47bd-95bf-f139e9156750-8000.in-vmprovider.projects.hrcdn.net/trades
+
+{
+    "type": "buy",
+    "user_id": 23,
+    "symbol": "ABC",
+    "shares": 30,
+    "price": 134,
+    "timestamp": 1531522701000
+}
+
+
 
