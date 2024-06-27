@@ -268,4 +268,4 @@ anser post https://vm-24bb54ef-9525-47bd-95bf-f139e9156750-8000.in-vmprovider.pr
 }
 
 
-
+.\virualenv\Scripts\Activate.ps1
